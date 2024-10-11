@@ -1,0 +1,14 @@
+/Users/justin/Documents/Test2/bin/Debug/net8.0/Test2
+/Users/justin/Documents/Test2/bin/Debug/net8.0/Test2.deps.json
+/Users/justin/Documents/Test2/bin/Debug/net8.0/Test2.runtimeconfig.json
+/Users/justin/Documents/Test2/bin/Debug/net8.0/Test2.dll
+/Users/justin/Documents/Test2/bin/Debug/net8.0/Test2.pdb
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.AssemblyInfoInputs.cache
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.AssemblyInfo.cs
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.csproj.CoreCompileInputs.cache
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.dll
+/Users/justin/Documents/Test2/obj/Debug/net8.0/refint/Test2.dll
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.pdb
+/Users/justin/Documents/Test2/obj/Debug/net8.0/Test2.genruntimeconfig.cache
+/Users/justin/Documents/Test2/obj/Debug/net8.0/ref/Test2.dll
